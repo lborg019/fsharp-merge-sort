@@ -9,5 +9,5 @@ I put an example in the code's comments, it works the following way:
 
 merge sort following list: (2, 9, 3, 1, 4, 5, 8, 7, 6)
 
-> mergesort [2;9;3;1;4;5;8;7;6];;
+> mergesort [2;9;3;1;4;5;8;7;6];; <br/>
 val it : int list = [1; 2; 3; 4; 5; 6; 7; 8; 9]
